@@ -20,3 +20,20 @@ Immediately you can see results below.
 
 You can repeat the process many times as you need, and  is going to automatically update the results.
 
+
+Project Structure:
+
+Project was design as a Java Dynamic Web Project. In this repository you can find the files without an specific structure, just for code revision, if you want to instal the application, you can ask for .war file.
+
+Developing environment:
+
+Dynamic Web Project 2.5
+JRE 1.7
+Apache Tomcat 6.0
+
+Additional Libraries used (directly installed on Apache):
+
+commons-fileupload-1.3.1.jar
+commons-io-2.4.jar
+javax.json-1.0.2.jar
+json-simple-1.1.1.jar
